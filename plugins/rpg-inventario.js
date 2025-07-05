@@ -14,7 +14,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 
     let premium = user.premium ? '✅' : '❌';
 
-    let text = `╭━〔 Inventario de ${name} 〕⬣\n` +
+    let text = `╭━〔 ɪɴᴠᴇɴᴛᴀʀɪᴏ ᴅᴇ ${name} 〕⬣\n` +
                `┋ 💸 *${moneda} en Cartera:* ${user.coin || 0}\n` +  
                `┋ 🏦 *${moneda} en Banco:* ${user.bank || 0}\n` + 
                `┋ ♦️ *𝗘𝘀𝗺𝗲𝗿𝗮𝗹𝗱𝗮𝘀:* ${user.emerald || 0}\n` + 
