@@ -12,6 +12,7 @@ let staff = `ᥫ᭡ *EQUIPO DE AYUDANTES* ❀
 > 🜸 𝐑𝐨𝐥 » *𝐂𝐫𝐞𝐚𝐝𝐨𝐫*
 > ✧ 𝑮𝒊𝒕𝑯𝒖𝒃 » https://github.com/flextOFC
 
+`
 await conn.sendFile(m.chat, img, 'yuki.jpg', staff.trim(), m)
 }
   
