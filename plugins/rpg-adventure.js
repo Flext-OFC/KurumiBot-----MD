@@ -47,17 +47,17 @@ user.lastAdventure = new Date();
 if (user.health < 0) {
 user.health = 0;
 }
-let info = `🛫 Te has aventurado en el *<${randomKingdom}>*\n` +
-`🏞️ *Aventura Finalizada* 🏞️\n` +
-`💸 *${moneda} Ganados:* ${coin}\n` +
-`♦️ *Esmeralda:* ${emerald}\n` +
-`🔩 *Hierro:* ${iron}\n` +
-`🏅 *Oro:* ${gold}\n` +
-`🕋 *Carbón:* ${coal}\n` +
-`🪨 *Piedra:* ${stone}\n` +
-`💎 *Diamantes Ganados:* ${diamonds}\n` +
-`✨ *Experiencia Ganada:* ${exp}\n` +
-`❤️ *Salud Actual:* ${user.health}`;
+let info = `✨ 𝚃𝚎 𝚑𝚊𝚜 𝚊𝚟𝚎𝚗𝚝𝚞𝚛𝚊𝚍𝚘 𝚎𝚗 𝚎𝚕 *<${randomKingdom}>*\n` +
+`🏞️ *𝑨𝒗𝒆𝒏𝒕𝒖𝒓𝒂 𝑭𝒊𝒏𝒂𝒍𝒊𝒛𝒂𝒅𝒂* 🏞️\n` +
+`💸 *${moneda} 𝑮𝒂𝒏𝒂𝒅𝒐𝒔:* ${coin}\n` +
+`♦️ *𝑬𝒔𝒎𝒆𝒓𝒂𝒍𝒅𝒂:* ${emerald}\n` +
+`🔩 *𝑯𝒊𝒆𝒓𝒓𝒐:* ${iron}\n` +
+`🏅 *𝑶𝒓𝒐:* ${gold}\n` +
+`🕋 *𝑪𝒂𝒓𝒃𝒐𝒏:* ${coal}\n` +
+`🪨 *𝑷𝒊𝒆𝒅𝒓𝒂:* ${stone}\n` +
+`💎 *𝑫𝒊𝒂𝒎𝒂𝒏𝒕𝒆𝒔 𝑮𝒂𝒏𝒂𝒅𝒐𝒔:* ${diamonds}\n` +
+`✨ *𝑬𝒙𝒑𝒆𝒓𝒊𝒆𝒏𝒄𝒊𝒂 Ganada:* ${exp}\n` +
+`❤️ *𝑺𝒂𝒍𝒖𝒅 𝑨𝒄𝒕𝒖𝒂𝒍:* ${user.health}`;
 await conn.sendFile(m.chat, img, 'yuki.jpg', info, fkontak);
 }
 
