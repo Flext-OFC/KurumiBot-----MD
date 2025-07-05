@@ -27,17 +27,17 @@ return res.data
 console.log(`Error : ${e}`)
 }}
   
-global.creador = 'wa.me/5212202410659'
+global.creador = 'wa.me/5491168758497'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.namechannel = '=͟͟͞❀ 𝐘𝐮𝐤𝐢 𝐒𝐮𝐨𝐮 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞★'
-global.namechannel2 = '=͟͟͞❀ 𝐘𝐮𝐤𝐢 𝐒𝐮𝐨𝐮 - 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ⏤͟͟͞͞★'
-global.namegrupo = 'ᰔᩚ ᥡᥙkі sᥙ᥆ᥙ • ᥆𝖿іᥴіᥲᥣ ❀'
-global.namecomu = 'ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥴ᥆mᥙᥒі𝗍ᥡ ❀'
+global.namechannel = '🌹 𝐊𝐔𝐑𝐔𝐌𝐈-𝐂𝐇𝐀𝐍𝐍𝐄𝐋 💖'
+global.namechannel2 = '𝑲𝒖𝒓𝒖𝒎𝒊 - 𝑪𝒉𝒂𝒏𝒏𝒆𝒍 - 𝑶𝑭𝑪'
+global.namegrupo = 'ᴋᴜʀᴜᴍɪ - ᴏғᴄ - ᴍᴏᴅ'
+global.namecomu = '𝐊𝐮𝐫𝐮𝐦𝐢 - 𝐂𝐮𝐦𝐢𝐧𝐢𝐭𝐲 - 𝐎𝐟𝐜'
 global.listo = '❀ *Aquí tienes ฅ^•ﻌ•^ฅ*'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
-global.canalIdM = ["120363416409380841@newsletter", "120363416409380841@newsletter"]
-global.canalNombreM = ["ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥙ⍴ძᥲ𝗍ᥱs ❀", "ᰔᩚ ᥡᥙkіᑲ᥆𝗍-mძ • ᥲ᥎іs᥆s ❀"]
+global.canalIdM = ["120363398249175961@newsletter", "120363398249175961@newsletter"]
+global.canalNombreM = ["🌸𝑲𝒖𝒓𝒖𝒎𝒊 - 𝑶𝑭𝑪 - 𝑼𝑷𝑫𝑨𝑻𝑬🌹", "🌸𝑲𝒖𝒓𝒖𝒎𝒊 - 𝑶𝑭𝑪 - 𝑼𝑷𝑫𝑨𝑻𝑬🌹"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
