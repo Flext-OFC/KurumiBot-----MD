@@ -60,12 +60,12 @@ global.avatar = 'https://files.catbox.moe/oyj83o.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.gp1 = 'https://chat.whatsapp.com/LrEuqWCkkjBIuNIHqC8UjB?mode=r_c'
-global.comunidad1 = 'https://chat.whatsapp.com/I0dMp2fEle7L6RaWBmwlAa'
+global.gp1 = 'https://chat.whatsapp.com/E867Fqb9zYJHlMJ2Rulckc?mode=r_c'
+global.comunidad1 = 'https://chat.whatsapp.com/L73EzLvigZjKhh10kf1xYB?mode=r_c'
 global.channel = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.channel2 = 'https://whatsapp.com/channel/0029VbAfPu9BqbrEMFWXKE0d'
-global.md = 'https://github.com/The-King-Destroy/Yuki_Suou-Bot'
-global.correo = 'thekingdestroy507@gmail.com'
+global.channel2 = 'https://whatsapp.com/channel/0029Vb4oRvuJuyALQAPcyu2O'
+global.md = 'https://github.com/FlextOFC/KurumiBot-MD'
+global.correo = 'flextofc@gmail.com'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
